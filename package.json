@@ -7,7 +7,7 @@
     "node": "8.4.0",
     "npm": "5.3.0"
   },
-  "repository": "",
+  "repository": "https://github.com/ronallensmith/youtube-search-react.git",
   "scripts": {
     "dev": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
     "postinstall": "webpack -p",
